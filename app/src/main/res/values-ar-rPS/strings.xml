@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">test</string>
+    <string name="your_first_name">اسمك الأول</string>
+    <string name="your_last_name">اسم عائلتك الكريمة الموقرة الجميلة</string>
+</resources>
